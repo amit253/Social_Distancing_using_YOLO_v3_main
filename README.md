@@ -27,7 +27,6 @@ This demo video is performed on the public “OXFORD TOWN CENTRE” dataset
 4. OpenCV_Contrib
 5. Math
 
-Download yolov3.weights for COCO dataset from this link and add it to your repo, [click here](https://pjreddie.com/darknet/yolo/)
 
 ### Installation of Model:
 
@@ -35,5 +34,3 @@ Download yolov3.weights for COCO dataset from this link and add it to your repo,
 * To deploy algorithm on videos, python SDD_Video.py
 * To deploy algorithm on live streaming webcam, python SDD_Camera.py
 
-
-Reference: https://landing.ai/landing-ai-creates-an-ai-tool-to-help-customers-monitor-social-distancing-in-the-workplace/
